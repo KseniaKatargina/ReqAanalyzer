@@ -4,8 +4,7 @@ https://disk.yandex.ru/d/QEXOQc-T3A7xog
 Содержимое папки:  
 ambiguity_trained_model/ — конфигурация предобученной модели для анализа двусмысленности 
 contradictions_trained_model/ — конфигурация модели для обработки противоречий  
-custom_contradictions_model/ — конфигурация кастомной модели  для обработки противоречий  
-datasets/ — датасеты для обучения и тестирования  
+custom_contradictions_model/ — конфигурация кастомной модели  для обработки противоречий    
 models/ — модели на python
 
 
